@@ -1,2 +1,2 @@
 # Gam403_A2_MahalahMooore
-Aaa
+Game programming assessment 2 - Maze game
